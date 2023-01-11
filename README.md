@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Knorgias
+- 👋 Hi, I’m @SynnefonK
 - 👀 I’m interested in Web Dev, Notion (templates), Game Dev, Video Games with immersive story
 - 🌱 I’m currently learning eleventy🎈 and pottery🏺
 - 📫 How to reach me:
