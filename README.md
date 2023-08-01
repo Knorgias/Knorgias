@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SynnefonK
-- 👀 I’m interested in Web Dev, Notion (templates), Game Dev, Video Games with immersive story
-- 🌱 I’m currently learning eleventy🎈 and pottery🏺
+- 👀 I’m interested in Web Dev, Game Dev, UX & DX, Notion (templates)
 - 📫 How to reach me:
   - On twitter: https://twitter.com/SynnefonK
   - Via email: dreamer.cloud.dreamer@gmail.com
